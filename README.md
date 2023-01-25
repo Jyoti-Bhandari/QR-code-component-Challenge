@@ -1,6 +1,3 @@
-# QR-code-component-Challenge
-This is a newbie coding challenge given by website Frontend Mentor. QR Code Component Challenge
-
 <!-- Frontend Mentor - QR code component -->
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
@@ -22,5 +19,4 @@ Challenge is to build out this QR code component and get it looking as close to 
 I love receiving feedback! I'm always looking to improve my challenges. So if you have anything you'd like to mention, please feel free to guide me.
 
 <!-- This challenge is completely free. Please share it with anyone who will find it useful for practice. -->
-
 
